@@ -4,28 +4,33 @@ html,body,h1,h2,h3,h4,ul,ol,li,p,a {
     margin: 0;
 }
 body {
-    
+    padding-left: 40px;
 }
 h1 {
-    
+    padding-top: 10px;
 }
 h2 {
-    
+    padding-top: 10px;
+    color: DarkSlateGrey;
 }
 h3 {
-   
+   border-bottom: 1px solid grey;
+   padding-top: 10px;
+   color: grey;
+
 }
 h4 {
-    
+   color: DarkSlateGrey;
 }
 p {
-   
+   padding-bottom: 10px;
 }
 a {
     
 }
 ul {
-    
+    padding-left: 30px;
+    padding-bottom: 10px;
 }
 li {
        
@@ -35,7 +40,9 @@ ol {
 }
 
 .nav {
-    
+    word-spacing: 20px;
+    padding-top: 10px;
+    padding-left: 0px;
 }
 
 .nav li {
