@@ -21,6 +21,8 @@ h3 {
 }
 h4 {
    color: DarkSlateGrey;
+   padding-bottom: 10px;
+   padding-top: 10px;
 }
 p {
    padding-bottom: 10px;
@@ -36,7 +38,7 @@ li {
        
 }
 ol {
-    
+    padding-left: 20px;
 }
 
 .nav {
