@@ -1,0 +1,14 @@
+.doggie {
+	position: absolute;
+}
+
+.topright {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+.bottomleft {
+	position: absolute;
+	bottom: 0px;
+}
