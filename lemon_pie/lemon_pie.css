@@ -5,7 +5,7 @@ h1 {
 }
 
 .large {
-	font-size: 55px;
+	/*font-size: 55px;*/
 }
 
 #prep {
@@ -25,10 +25,30 @@ ol {
 }
 
 img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	width: 300px;
 	height: 300px;
 }
 
+.container {
+	display: flex;
+
+}
+
 .directions {
-	list-style-type: none
+	list-style-type: none;
+}
+
+.instructions {
+	flex: 1;
+	/*column-count: 2;*/
+	/*width: 50%;*/
+}
+
+.ingredients {
+	flex: 1;
+	/*column-count: 2;*/
+	/*width: 50%;*/
 }
