@@ -1,0 +1,96 @@
+.wrapper {
+	text-align: center;
+	background-color: WhiteSmoke;
+	width: 900px;
+	height: 195px;
+	margin: auto;
+	border-style: ridge;
+}
+
+h3 {
+	text-align: left;
+	font-family: Helvetica;	
+	margin-left: 15px;
+	font-size: 16px;
+}
+
+body {
+	position: relative;
+}
+p {
+	font-family: Helvetica;	
+	font-size: 14px;
+}
+
+.helpbox {
+	height: 90px;
+	width: 40px;
+	position: fixed;
+	right: 0px;
+
+}
+.container {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.one {
+	width: 100px;
+	height: 100px;
+	background: #BBBDEC;
+	border-radius: 50px
+}
+
+.two {
+	width: 100px;
+	height: 100px;
+	background: #6B1D70;
+	border-radius: 50px;
+	transform: translate(120%, -100%);
+}
+
+.three {
+	width: 100px; 
+	height: 100px;
+	background: #FFD6EF;
+	border-radius: 50px;
+	transform: translate(240%, -200%);
+}
+
+.four {
+	width: 100px; 
+	height: 100px;
+	background: #E67689;
+	border-radius: 50px;
+	transform: translate(360%, -300%);
+}
+
+.five {
+	width: 100px; 
+	height: 100px;
+	background: #FFD6EF;
+	border-radius: 50px;
+	transform: translate(480%, -400%);
+}
+
+.six {
+	width: 100px; 
+	height: 100px;
+	background: #6B1D70;
+	border-radius: 50px;
+	transform: translate(600%, -500%);
+}
+
+.seven {
+	width: 100px; 
+	height: 100px;
+	background: #BBBDEC;
+	border-radius: 50px;
+	transform: translate(720%, -600%);
+}
+
+.picture {
+	width: 80px;
+	height: 80px;
+	margin-top: 10px;
+}
