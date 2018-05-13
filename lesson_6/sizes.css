@@ -1,0 +1,33 @@
+body {
+	font-family: Arial;
+}
+
+.header {
+	padding-bottom: 5px;
+}
+
+.size-form {
+	width: 15%;
+    height: 250px;
+    background: #E4E2DC;
+    display: block;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+input[type="checkbox"] {
+	transform:scale(1.3, 1.3);
+	margin-right: 10px;
+}
+
+#sizes {
+	margin-bottom: 10px; 
+}
+.clearfix .submit {
+	border: none;
+	background-color: #E4E2DC;
+	color: #2294C4;
+	margin-left: 140px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
