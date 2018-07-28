@@ -1,0 +1,30 @@
+div {
+  	display:inline-block;
+  	text-align: center;
+  	display: table-cell;
+  	vertical-align: bottom;
+}
+
+p {
+	margin-bottom: -65px;
+}
+
+#products {
+	height: 287px;
+	width: 250px;
+}
+.balloon {
+	background: url("party_supplies_image_sprite.png") no-repeat 0 0;
+}
+
+.sparkler {
+	background: url("party_supplies_image_sprite.png") -500px 0;
+}
+
+.hat {
+	background: url("party_supplies_image_sprite.png") -250px 0;
+}
+
+.flag {
+	background: url("party_supplies_image_sprite.png") -750px 0;
+}

@@ -1,0 +1,29 @@
+#icons{
+	display: inline-block;
+	padding-right: 25px;
+	padding-top: 15px;
+}
+
+i:hover {
+	opacity: 0.5;
+}
+
+.fab {
+	font-size: 3em;
+}
+
+.fa-facebook-f {
+	color: #3D5891;
+}
+
+.fa-twitter {
+	color: #5EC6EE;
+}
+
+.fa-google-plus-g {
+	color: #E96644;
+}
+
+.fa-pinterest-p {
+	color: #DD3754;
+}

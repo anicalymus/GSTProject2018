@@ -1,0 +1,13 @@
+ header {
+    height: 20vh;
+	margin-bottom: 5vh;
+}
+
+footer {
+	margin-top: 3vh;
+	height: 10vh;
+}
+
+div {
+	height: 60vh;
+}
